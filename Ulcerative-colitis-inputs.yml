@@ -1,0 +1,36 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/ulcerative-colitis---primary.py
+inputModule3:
+  class: File
+  path: python/idiopathic-ulcerative-colitis---primary.py
+inputModule4:
+  class: File
+  path: python/ulcerative-colitis-pancolitis---primary.py
+inputModule5:
+  class: File
+  path: python/ulcerative-colitis-proctocolitis---primary.py
+inputModule6:
+  class: File
+  path: python/ulcerative-colitis-ileocolitis---primary.py
+inputModule7:
+  class: File
+  path: python/other-ulcerative-colitis---primary.py
+inputModule8:
+  class: File
+  path: python/ulcerative-colitis-proctitis---primary.py
+inputModule9:
+  class: File
+  path: python/colitis---primary.py
+inputModule10:
+  class: File
+  path: python/ulcerative-colitis-enterocolitis---primary.py
+inputModule11:
+  class: File
+  path: python/ulcerative-colitis-history---primary.py
+inputModule12:
+  class: File
+  path: python/output-cases.py
